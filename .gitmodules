@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zeyad7007/Frontend-Dev-Packages-Registry.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/abdelrahmanHamdyG/Package-manager-phase-2-.git
