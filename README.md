@@ -384,7 +384,7 @@ The application can be accessed in two ways:
 
 ## Contributors
 
-**Zeyad Ayman** - [zelafifi@purdue.edu](mailto:zelafifi@purdue.edu)
+- **Zeyad Ayman** - [zelafifi@purdue.edu](mailto:zelafifi@purdue.edu)
 - **Ahmed Shebl** - [ashebl@purdue.edu](mailto:ashebl@purdue.edu)
 - **Abdelrahman Ghania** - [aghania@purdue.edu](mailto:aghania@purdue.edu)
 - **Ahmed Sayed** - [omar9@purdue.edu](mailto:omar9@purdue.edu)
