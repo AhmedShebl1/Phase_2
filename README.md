@@ -1,7 +1,7 @@
 # Phase 2: Package Manager Project
 
 ![License](https://img.shields.io/badge/license-MIT-green)  
-![Node.js](https://img.shields.io/badge/node.js-v18.0.0+-brightgreen)  
+![TypeScript](https://img.shields.io/badge/typescript-v4.0.0+-blue)  
 ![React](https://img.shields.io/badge/react-v18.0.0+-brightgreen)
 
 ## Table of Contents
