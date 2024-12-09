@@ -7,8 +7,8 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Endpoints Overview](#endpoints-overview)
 - [Links](#links)
+- [Endpoints Overview](#endpoints-overview)
 - [Backend Repository](#backend-repository)
 - [Frontend Repository](#frontend-repository)
 - [Setup and Configuration](#setup-and-configuration)
@@ -27,6 +27,16 @@ The **Package Manager API** provides a trustworthy module registry to manage Jav
 A **Package ID** is used as a unique identifier for a package and its version. Example IDs:
 - PackageName: `Alpha`, Version: `1.1.1` → ID: `988645763`
 - PackageName: `Alpha`, Version: `1.3.2` → ID: `357898765`
+
+---
+
+## Links
+
+1. **API**:
+   - [https://fuwwahpackreg.xyz/](https://fuwwahpackreg.xyz/)
+
+2. **Website**:
+   - [https://frontend-dev-packages-registry.vercel.app/](https://frontend-dev-packages-registry.vercel.app/)
 
 ---
 
@@ -216,16 +226,6 @@ A **Package ID** is used as a unique identifier for a package and its version. E
   - `500`: Internal server error.
 
 ---
-
-## Links
-
-1. **API**:
-   - [https://fuwwahpackreg.xyz/](https://fuwwahpackreg.xyz/)
-
-2. **Website**:
-   - [https://frontend-dev-packages-registry.vercel.app/](https://frontend-dev-packages-registry.vercel.app/)
-
---
 
 ## Backend Repository
 
